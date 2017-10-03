@@ -1,0 +1,11 @@
+rcc - raw character code (raw value stored as 1 character)
+
+@{Height rcc}${Width rcc}#{R rcc}:{G rcc}:{B rcc};(Next pixel)!(Next row first pixel);(Next pixel)&
+
+@ next char height
+$ next char width
+# next char starting pixel
+: colour seperator
+; pixel seperator
+! row seperator
+& EOF

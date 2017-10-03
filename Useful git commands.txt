@@ -1,0 +1,15 @@
+git checkout master
+git pull
+git push
+
+git checkout master
+git commit -m "Commit Message"
+git push
+
+git checkout Working
+git add *
+git commit -m "Commit Message"
+
+git checkout master
+git merge Working
+git push

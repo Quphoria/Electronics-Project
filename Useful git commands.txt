@@ -15,7 +15,7 @@ git merge Working
 git push
 
 git checkout Working
+git pull origin Working:Working
 git add *
 git commit -m "Commit Message"
-git checkout origin/Working
-git push
+git push origin Working:Working

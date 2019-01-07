@@ -1,0 +1,17 @@
+RefDes,Name,Value,Manufacturer,,RefDes,Name,Value,Manufacturer
+"C1, C2",CAP,22pF,,,"R4, R8, R9, R10",RES,2.2K,
+"C3, C4, C10, C12",CAP,100nF,,,"R5, R15, R16, R24",RES,100,
+"C5, C6, C8, C9",CAP,10nF,,,"R6, R17, R18",RES,2K,
+"C7, C11",CAP100RP,10uF,,,R19,RES,10,
+"D1, D2, D4, D5, D6, D7",DIODE,,,,"R20, R21",RES,100K,
+D3,LED-5R_Green,5mm Round,Kingbright,,R22,RES,20K,
+J1,1761782001,,Weidmüller,,R23,RES,220K,
+J2,644456-3,Panels,TE Connectivity,,S1,OS102011MS2QN1,,C&K
+J3,RCJ-2121,,CUI,,S2,B3F-1000,,OMRON
+J4,644456-3,IR,TE Connectivity,,U1,ATMEGA1284P-PU,,Atmel
+J5,DM1AA-SF-PEJ_3D2,,Hirose,,U2,LM324N,,Motorola
+J6,OSTOP020000,Power,On Shore Technology,,U3,M74HC4050B1R,,ST Microelectronics
+J7,644456-6,Prog.,TE Connectivity,,U4,LF33CV,,ST Microelectronics
+J8,644456-4,I2C,TE Connectivity,,U5,B0505S,,Mornsun
+MK1,AOM-6545P-R,,Pui Audio,,Y1,ECS-110-S-1,16MHz,
+"R1, R2, R3, R7, R11, R12, R13, R14, R25",RES,1K,,,,,,
